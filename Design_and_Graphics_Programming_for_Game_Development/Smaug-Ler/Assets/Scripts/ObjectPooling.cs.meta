@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5204de88acf16ad48bb67c62691fc6a9
+timeCreated: 1528278422
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redGemPrefab: {fileID: 1656452970511226, guid: e9af898bc4e363c489692bc731248281,
+      type: 2}
+  - purpleGemPrefab: {fileID: 1914734926025008, guid: 05c64230fb7f47f48b6434bf542c0d86,
+      type: 2}
+  - greenGemPrefab: {fileID: 1046717462533950, guid: 24640f94ff880b24287e9c323e1e2001,
+      type: 2}
+  - createPrefab: {fileID: 1403247056563290, guid: d89dcc6f885748f4590cf2c5cc62247f,
+      type: 2}
+  - wagonPrefab: {fileID: 1596767301454562, guid: c7e437bd9d27681409151f25b01a3aed,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Fireball
+  - RedGem
+  - PurpleGem
+  - GreenGem
+  - Knight
+  - test
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - The Dragon Standby
+  - Background
+  - Knight1
+  - Knight 2
+  - Ground
+  - Floor
+  - Sky
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4200228867
+    locked: 0
+  - name: Backgroundn
+    uniqueID: 899829243
+    locked: 0
+  - name: Dragon
+    uniqueID: 3596388601
+    locked: 0
+  - name: Knight1
+    uniqueID: 4032425591
+    locked: 0
+  - name: Knight2
+    uniqueID: 3841073593
+    locked: 0
