@@ -1,4 +1,5 @@
 # Seminar: Software Composition Seminar
+Technologies used; Java, JavaParser, MySQL, SQL and NetBeans
 ### Subject : Strings Attached [1]
 
 This project is an investigation on the usage of String literals in Java code. We want to understand what information do developers encode in their Strings. For example, Strings are used sometimes to encode types, errors, methods, etc. This is unavoidable in some frameworks (Spring), but it can be done better in other situations (errors in exceptions). Also Strings are used for logging and user output. We want to understand what information developers put in their Strings.
